@@ -1,0 +1,62 @@
+body {
+    background-color:#f7f7f7;
+    font-family: Helvetica;
+    margin: 0;
+}
+
+.logo {
+    background-color: #0FA865;
+    text-align: center;
+}
+
+.gambarlogo {
+    width: 275px;
+    margin: 30px 20px 30px 15px ;
+}
+
+/*.tulisan {
+    text-align: center;
+}
+
+.tulisan h3 {
+    margin-top: -50px;
+    color: white;
+}
+*/
+.tombol {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.tombol div {
+    margin-bottom: 50px;
+    background-color: #0FA865;
+    width: 75%;
+    margin: 30px auto;
+    border: 2px solid white;
+    padding: 15px 0;
+    border-radius: 30px;
+}
+
+.tombol a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.footer {
+    text-align: center;
+    background-color: #0FA865;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.footer img {
+    width: 150px;
+}
+
+.tombol div:hover {
+    background-color: #49583e;
+    border: 3px solid #c5cd40;
+    cursor: pointer;
+    }
